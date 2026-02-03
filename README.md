@@ -39,3 +39,49 @@ This project allows users to generate secure random passwords and copy them to t
 ---
 
 ## 📁 Project Structure
+
+password-generator/
+│
+├── index.html
+├── index.css
+├── index.js
+└── README.md
+
+---
+
+## ⚠️ Notes
+
+- Clipboard functionality works only on:
+  - `http://localhost`
+  - `https://` environments
+- If you open the HTML file directly (`file:///`), copying may not work.
+
+---
+
+## 📌 Possible Improvements
+
+- Password length selector
+- Option to exclude symbols or numbers
+- Toast-style notification animation
+- Dark/light theme toggle
+
+---
+
+## 🧠 What I Learned
+
+- Working with arrays and random values in JavaScript
+- DOM manipulation
+- Clipboard API usage
+- Improving user experience with feedback messages
+
+---
+
+## 👤 Author
+
+**Konstantinos Angelopoulos**
+
+---
+
+## 📜 License
+
+This project is open source and free to use.
